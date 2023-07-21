@@ -13,7 +13,7 @@ Noughts and Crosses is known by a few other names around the world. The most com
 - JavaScript
 - CSS
 
-# preview
+# Preview
 
 
 https://github.com/Latasharma26/Tic-Tac-Toe-With-Computer/assets/96385877/75c566e7-7db6-4875-8e9c-ff4ae3893855

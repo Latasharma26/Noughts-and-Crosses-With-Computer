@@ -1,4 +1,4 @@
-# "Noughts and Crosses-With-Computer
+# Noughts and Crosses-With-Computer
 Noughts and Crosses is known by a few other names around the world. The most common of these is "Tic Tac Toe" and it is sometimes simply referred to as the "XO game."Tic-Tac-Toe is a long beloved classic pen and paper or board game for two players. Variations of Tic Tac Toe have been played since the Roman Empire and 3 in a row games can be traced all the way back to ancient Egypt!
 # RULES
 -Tic-Tac-Toe is a simple and fun game for 2 players, X and O. It is played on a 3x3 grid. Each player's goal is to make 3 in a row.
